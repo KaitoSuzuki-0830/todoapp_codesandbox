@@ -1,2 +1,2 @@
-# todoapp_codesandbox
+# codesandbox-js
 Created with CodeSandbox
